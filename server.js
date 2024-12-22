@@ -5,8 +5,7 @@ const cors = require("cors");
 
 const path = require("path");
 
-const MongoDB_URI =
-  "mongodb+srv://ayou2b:ayoub1234@cluster22.xzyuooc.mongodb.net/blog?retryWrites=true&w=majority&appName=Cluster22";
+const MongoDB_URI = "your mongodb uri here";
 
 const app = express();
 
